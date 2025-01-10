@@ -1,2 +1,2 @@
 # Project
-Author :- Yash A Shah
+Author :- Shah Yash A
